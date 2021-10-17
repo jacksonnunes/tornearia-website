@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.js": "/tornearia-website/static/js/main.19d91e91.chunk.js",
-    "main.js.map": "/tornearia-website/static/js/main.19d91e91.chunk.js.map",
+    "main.js": "/tornearia-website/static/js/main.f9d222ab.chunk.js",
+    "main.js.map": "/tornearia-website/static/js/main.f9d222ab.chunk.js.map",
     "runtime-main.js": "/tornearia-website/static/js/runtime-main.64a04dd6.js",
     "runtime-main.js.map": "/tornearia-website/static/js/runtime-main.64a04dd6.js.map",
-    "static/js/2.2cc35fa5.chunk.js": "/tornearia-website/static/js/2.2cc35fa5.chunk.js",
-    "static/js/2.2cc35fa5.chunk.js.map": "/tornearia-website/static/js/2.2cc35fa5.chunk.js.map",
+    "static/js/2.1a24abaa.chunk.js": "/tornearia-website/static/js/2.1a24abaa.chunk.js",
+    "static/js/2.1a24abaa.chunk.js.map": "/tornearia-website/static/js/2.1a24abaa.chunk.js.map",
     "index.html": "/tornearia-website/index.html",
-    "static/js/2.2cc35fa5.chunk.js.LICENSE.txt": "/tornearia-website/static/js/2.2cc35fa5.chunk.js.LICENSE.txt",
+    "static/js/2.1a24abaa.chunk.js.LICENSE.txt": "/tornearia-website/static/js/2.1a24abaa.chunk.js.LICENSE.txt",
+    "static/media/construction.f7e6d305.png": "/tornearia-website/static/media/construction.f7e6d305.png",
     "static/media/home_image.b11a4246.jpg": "/tornearia-website/static/media/home_image.b11a4246.jpg",
     "static/media/industry.d99301a1.jpg": "/tornearia-website/static/media/industry.d99301a1.jpg",
     "static/media/logo-3d.9959d557.png": "/tornearia-website/static/media/logo-3d.9959d557.png",
@@ -15,7 +16,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.64a04dd6.js",
-    "static/js/2.2cc35fa5.chunk.js",
-    "static/js/main.19d91e91.chunk.js"
+    "static/js/2.1a24abaa.chunk.js",
+    "static/js/main.f9d222ab.chunk.js"
   ]
 }
