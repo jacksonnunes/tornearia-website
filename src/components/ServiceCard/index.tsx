@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { FiChevronRight } from 'react-icons/fi';
 
 import { Container } from './styles';
@@ -16,10 +17,10 @@ export const ServiceCard: React.FC<Props> = ({
     <Container image={image}>
       <h3>{title}</h3>
 
-      <div>
+      <Link to="/services">
         <p>Ver</p>
         <FiChevronRight size={20} />
-      </div>
+      </Link>
     </Container>
   );
 }

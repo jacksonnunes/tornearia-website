@@ -30,10 +30,11 @@ export const Container = styled.div<BackgroundImageProps>`
     margin-bottom: 24px;
   }
 
-  div {
+  a {
     display: flex;
     align-items: center;
 
+    text-decoration: none;
     color: var(--text-secondary);
 
     transition: all 0.2s;
@@ -46,7 +47,7 @@ export const Container = styled.div<BackgroundImageProps>`
   &:hover {
     box-shadow: 0 7px var(--red);
 
-    div {
+    a {
       color: var(--red);
     }
   }
